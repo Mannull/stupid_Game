@@ -1,0 +1,10 @@
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\bin\Debug\igra_kakoeto.exe.config
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\bin\Debug\igra_kakoeto.exe
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\bin\Debug\igra_kakoeto.pdb
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.csprojAssemblyReference.cache
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.exe
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.pdb
+C:\Users\Ahmed\source\repos\igra_kakoeto\igra_kakoeto\obj\Debug\igra_kakoeto.Form1.resources
